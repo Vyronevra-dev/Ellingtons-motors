@@ -106,7 +106,7 @@ body {
     height: 100vh;
     background-size: cover;
     background-position: center bottom;
-    background-image: url('https://img.redbull.com/images/c_fill,g_auto,w_400,h_500/q_auto,f_auto/redbullcom/2025/5/27/isvtuiubkgbci3rh90kc/wrc_ken_25_e_evans_616');
+    background-image: url('https://media.yatzer.com/9-the-port-yspractice-nanjing-china-photo-ming-li-yatzer-1400x934.jpg');
     padding: 5%;
     padding-top: 20%;
 }
@@ -122,25 +122,24 @@ body {
 
 .hero-section button {
     background-color: #2f2f2f;
-    color: #dec2b6;
+    color: #f0f0f0;
     border: none;
     width: 100px;
     height: 50px;
     border-radius: 15px;
     cursor: pointer;
-    transition: background-color 0.6s;
     transition: color 0.6s;
+    font-weight: bold;
 }
 
 .hero-section button:hover {
-    background-color: rgba(222, 194, 182, 0.9);
-    color: #212121;
+    color: #dec2b6;
 }
 
 
 @media (min-width: 768px) {
     .hero-section {
-    background-image: url('https://i0.wp.com/speedsport.com/wp-content/uploads/2025/03/evans-1.png?fit=1920%2C1080&ssl=1');
+    background-image: url('https://media.yatzer.com/9-the-port-yspractice-nanjing-china-photo-ming-li-yatzer-1400x934.jpg');
     background-size: cover;
     padding-top: 8%;
     padding-left: 3%;
@@ -149,8 +148,8 @@ body {
     .hero-section button {
         width: 120px;
         height: 60px;
-        background-color: #dec2b6;
-        color: #2f2f2f;
+        background-color: #2f2f2f;
+        color: #f0f0f0;
         font-size: 18px;
         font-weight: bold;
     }
@@ -643,6 +642,7 @@ h2 span {
 
 #inventories h1 {
     padding-top: 80px;
+    text-shadow: 2px 2px 8px #000;
     color: rgb(255, 255, 255);
     font-size: 3.5rem;
     font-family: 'Bebas Neue', sans-serif;
@@ -666,7 +666,7 @@ h2 span {
 
     .hero {
     width: 100%;
-    background-image: url('https://www.malindikenya.net/images/uploads/articoli/2797_l.jpg');
+    background-image: url('https://bugatti.imgix.net/67d984a14e7e13e5d09bdb69/03-bugatti-rotterdam.jpg');
     background-size: cover;
     }
 }
