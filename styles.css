@@ -81,7 +81,7 @@ body {
     border-bottom: 1px solid #2f2f2f;
     transition: background 0.2s;
     font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .nav-links a:hover {
@@ -122,19 +122,20 @@ body {
 }
 
 .hero-section button {
-    background-color: transparent;
-    color: #000;
-    border: 2px solid #000;
+    background-color: #dec2b6;
+    color: #1A237E;
+    outline: none;
+    border: 1px solid #1A237E;
     width: 100px;
     height: 50px;
     cursor: pointer;
     font-weight: bold;
     transition: background-color 1s;
+    border-radius: 30px;
 }
 
 .hero-section button:hover {
-    background-color: #000;
-    color: #fff;
+    background-color: #EAE0C8;
 }
 
 .hero-section a {
@@ -151,8 +152,8 @@ body {
 
     .hero-section button {
         width: 120px;
-        height: 60px;
-        font-size: 18px;
+        height: 55px;
+        font-size: 16px;
         font-weight: bold;
     }
 
